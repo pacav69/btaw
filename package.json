@@ -1,29 +1,28 @@
 {
-  "name": "Bootstrap-Modern-Business",
-  "description": "Bootstrap Modern Business",
-  "version": "0.0.2",
-  "homepage": "https://github.com/{username}/{repo}",
+  "name": Bootstrap Template Another Way (BTAW)",
+  "description": "Bootstrap Template Another Way (BTAW)",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pacav69/btaw",
   "author": {
     "name": "pacav69",
     "url": "http://github.com/pacav69/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/{username}/{repo}.git"
+    "url": "https://github.com/pacav69/btaw.git"
   },
   "bugs": {
-    "url": "https://github.com/{username}/{repo}/issues"
+    "url": "https://github.com/pacav69/btaw/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/{username}/{repo}/blob/master/LICENSE.md"
+    "url": "https://github.com/pacav69/btaw/blob/master/LICENSE-MIT"
   },
   "keywords": [
     "twbs",
     "assemble",
     "grunt",
     "less",
-    "komodo",
     "docs"
   ],
   "main": "Gruntfile.js",
