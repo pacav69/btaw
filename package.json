@@ -20,6 +20,14 @@
   },
   "keywords": [
     "twbs",
+    "bootstrap",
+    "bower",
+    "toc",
+    "handlebars",
+    "scaffold",
+	"concat",
+	"uglify",
+	"fontawesome",
     "assemble",
     "grunt",
     "less",
@@ -29,6 +37,7 @@
   "engines": {
     "node": ">=0.10.0"
   },
+  "readmeFilename": "README.md",
   "scripts": {
     "bower": "bower install",
     "grunt": "grunt",
