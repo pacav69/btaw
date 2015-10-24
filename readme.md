@@ -46,7 +46,7 @@ Have nodejs grunt-cli
 
 For files 
 
-	git clone --recursive https://github.com/pacav69/btaw.git
+	git clone https://github.com/pacav69/btaw.git
 
 After downloading the files from github run the following:
 
@@ -119,6 +119,44 @@ in the navbar add the following:
       {{> tocbs}}
     </li>
     
+### Directory structure of src
+
+
+	src
+	│───│
+    │   ├───assets
+    │   ├───css
+    │   ├───fonts
+    │   ├───img
+    │   ├───js
+    │   │   └───core
+    │   └───less
+    │   ├───error
+    │   └───main
+    │   └───layout
+    ├───data
+    ├───helper
+    ├───mddocs
+    ├───tasks
+    ├───templates
+    │   ├───custom-helpers
+    │   ├───layouts
+    │   ├───pages
+    │   └───partials
+    │   └───snippets
+    │   └───lorem-ipsum
+    └───_appref
+    ├───bin
+    ├───css
+    ├───font-awesome
+    │   ├───css
+    │   ├───fonts
+    │   ├───less
+    │   └───scss
+    ├───fonts
+    ├───images
+    └───js
+
 ## References
 
 http://placehold.it
