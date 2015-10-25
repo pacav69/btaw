@@ -113,7 +113,7 @@ In the tocbs.hbs file
 
 this file will go through each of the pages to select files that meet the criteria of 'data.topTitle "Docs"' then sort according to the sortorder and add the icon and title.
 
-in the navbar add the following:
+In the navbar add the following:
 
     <li>
       {{> tocbs}}
