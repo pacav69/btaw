@@ -1,4 +1,5 @@
 #Bootstrap Template Another Way - BTAW
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 ![](https://travis-ci.org/pacav69/btaw.svg?branch=master)
 
 This setup is based on Modern Business template from Start Bootstrap using the following:
