@@ -1,0 +1,14 @@
+{	
+	"keywords": [
+    "keywordsfirstone",
+    "keywords2",
+    "keywords3",
+    "keywords4",
+    "keywords5",
+    "keywords6",
+	"keywords7",
+	"keywords8",
+	"keywordslastone"
+    ],
+  "description": "description of site goes here in ./src/data/sitedata.json file."
+}
