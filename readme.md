@@ -1,4 +1,7 @@
 #Bootstrap Template Another Way - BTAW
+[![spc logo](https://cldup.com/I-R7eDB7Q0.png)](http://www,silverpcgroup.com "silverpcgroup")
+
+
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 ![](https://travis-ci.org/pacav69/btaw.svg?branch=master)
 
