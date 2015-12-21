@@ -48,7 +48,7 @@ These are in the directory 'src/tasks/' and called from the gruntfile.js located
 ## Installation
 
 ### Requirements
-Have nodejs grunt-cli
+Have nodejs and grunt-cli
 
 For files 
 
@@ -71,7 +71,7 @@ will run local server and monitor/watch any configured file changes and carry ou
 
     grunt assemble
 
-will run the assemble the parts of the webpages 
+will run assemble on parts of the webpages 
 
 ## Customizing
 
