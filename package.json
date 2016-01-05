@@ -14,9 +14,7 @@
   "bugs": {
     "url": "https://github.com/pacav69/btaw/issues"
   },
-  "license": {
-    "type": "MIT"
-  },
+ "license": "MIT",
   "keywords": [
     "twbs",
     "bootstrap",
